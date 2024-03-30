@@ -58,7 +58,7 @@ class EMIScreenState extends State<EMIWidget> {
               height: 150, // Fixed height for the Card
               child: SingleChildScrollView( // Wrap the Column with SingleChildScrollView
                 child: Padding(
-                  padding: const EdgeInsets.all(16.0),
+                    25.00   padding: const EdgeInsets.all(16.0),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
